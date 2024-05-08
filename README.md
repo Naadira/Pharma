@@ -1,9 +1,8 @@
 # Project Responsive Web Design using Bootstrap
-## Date:03-05-2024
+## Date: 08/05/2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
-
 
 ## DESIGN STEPS:
 
@@ -29,7 +28,6 @@ Publish the website in the LocalHost.
 
 ### web.html
 ```
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,8 +119,6 @@ Publish the website in the LocalHost.
 ```
 ### about.html
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -227,8 +223,6 @@ Publish the website in the LocalHost.
 ```
 ### product.html
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -340,8 +334,6 @@ Publish the website in the LocalHost.
 ```
 ### contact.html
 ```
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -445,16 +437,12 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-
-
-
 ## OUTPUT:
-![alt text](<Screenshot (420).png>)
+![alt text](home.png)
+![alt text](about.png)
+![alt text](about_dropdown.png)
+![alt text](product.png)
+![alt text](contact.png)
 
-![alt text](<Screenshot (421).png>)
-
-![alt text](<Screenshot (422).png>)
-
-![alt text](<Screenshot (423).png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
